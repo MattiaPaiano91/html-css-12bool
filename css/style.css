@@ -12,7 +12,31 @@
   text-align: center;
   color: white;
   background-color: #006CFA;
-  font-size: 1.5rem;
   border: 1px solid white;
-  
+  display: flex;
 }
+  
+.color{
+    background-color: green;
+    color: white;
+    padding: 20px 0px;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid  #006CFA;
+
+}
+
+.green-box-2{
+    width: calc((100% / 12) * 2);
+}
+
+.green-box-6{
+    width: calc((100% / 12) * 6)
+}
+
+.green-box-8{
+    width: calc((100% / 12) * 8)
+}
+  
+
+
