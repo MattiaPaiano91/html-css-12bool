@@ -7,13 +7,21 @@
     box-sizing: border-box;
 }
 
+.container{
+    margin-bottom: 20px;
+}
+
+.flexbox{
+    display: flex;
+}
+
 .box{
   padding: 20px;
   text-align: center;
   color: white;
   background-color: #006CFA;
   border: 1px solid white;
-  display: flex;
+  
 }
   
 .color{
